@@ -1,28 +1,29 @@
 /**
-  * @name Dark+
-  * @author DevEvil#8745
-  * @version Dark+3
-  * @description Highly customized dark and purple theme for Discord
-  * @authorId 468132563714703390
-  * @authorLink https://devevil.com
-  * @source https://github.com/DevEvil99/DarkPlus-Discord-Theme
-  * @website https://devevil.com
-  * @invite jsQ9UP7kCA
+  * @name Calico
+  * @author Calico#3787
+  * @version Calico V1
+  * @description Highly customized dark and blue hue theme for Discord
+  * @authorId 53259864956211200
+  * @authorLink https://www.ffxivvenues.com
+  * @source None!
+  * @website N/A
+  * @invite N/A
 */
 
-@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark+/Dark+.theme.css');
+@import url('https://github.com/ItsJustCalico/discordthemecss/edit/main/Calci-edit.css');
 
 :root {
-	--darkplus-bg: #1a1a1a;
-	--darkplus-bg2: #262626;
-	--darkplus-sec: #6699ff;
-	--darkplus-links: ##3333ff;
-	--darkplus-home-icon: url(https://cdn.discordapp.com/attachments/952946227748679702/1006379519202041856/discord.png);
-	--watermark-filter-invert: 0%;
-	--watermark-filter-sepia: 50%;
-	--watermark-filter-saturate: 3000%;
-	--watermark-filter-hue-rotate: 210deg;
-	--watermark-filter-brightness: 70%;
-	--watermark-filter-contrast: 200%;
-	--darkplus-emoji-picker-color: 210deg;
+  --darkplus-bg: #1a1a1a;
+  --darkplus-bg2: #262626;
+  --darkplus-sec: #6699ff;
+  --darkplus-links: ##3333ff;
+  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/952946227748679702/1006379519202041856/discord.png);
+ --watermark-filter-invert: 0%;
+  --watermark-filter-sepia: 50%;
+  --watermark-filter-saturate: 3000%;
+  --watermark-filter-hue-rotate: 210deg;
+  --watermark-filter-brightness: 70%;
+  --watermark-filter-contrast: 200%;
+  --darkplus-emoji-picker-color: 210deg;
 }
+
